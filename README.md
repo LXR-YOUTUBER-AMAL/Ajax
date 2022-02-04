@@ -2,7 +2,7 @@
   <img src="assets/logo.jpg" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
-  <b>ᗩᒍᗩ᙭ Iᗰᗪᗷ ᗷOT ᐯ3</b>
+  <b>LXR YOUTUBER IMDB BOT V3</b>
 </h1>
 
 
@@ -39,12 +39,12 @@
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
+<i>**[Watch Deploying Tutorial...](https://youtube.com/channel/UCqRmM0N9Z-7bBiTqJsfFWwg)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Ajax">
+<a href="https://heroku.com/deploy?template=https://github.com/LXR-YOUTUBER-AMAL/Ajax">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -53,7 +53,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Aadhi000/Ajax
+git clone https://github.com/LXR-YOUTUBER-AMAL/Ajax
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -90,6 +90,6 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐀𝐚𝐝𝐡𝐢](https://t.me/BKC0001)                                                                                                                                        
-𝙶𝚁𝙾𝚄𝙿 ›› [𝐌𝐨𝐯𝐢𝐞𝐬 𝐖𝐨𝐫𝐥𝐝](https://t.me/MoviesWorld_Group)                                             
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐌𝐖 𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/Minnal_Murali2021HD)
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [LXR YOUTUBER](https://t.me/malayalammoviesmmms)                                                                                                                                        
+𝙶𝚁𝙾𝚄𝙿 ›› [MM MOVIE GRP](https://t.me/malayalammoviesmms)                                             
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [MM OTT](https://t.me/+0uC-iq68FaFjZGNl)
